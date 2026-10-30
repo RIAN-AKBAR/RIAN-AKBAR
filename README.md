@@ -36,13 +36,6 @@
 <h2 align="center">👑 Tentang SilverHold</h2>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="380" alt="coding animation"/>
-</div>
-
-<!-- ═══════════ ABOUT ═══════════ -->
-<h2 align="center">👑 Tentang SilverHold</h2>
-
-<div align="center">
   <!-- Animasi Coding (opsional, biarkan saja jika sudah ada) -->
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="380" alt="coding animation" style="margin-bottom: 20px;"/>
 </div>
